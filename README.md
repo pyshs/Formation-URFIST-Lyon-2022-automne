@@ -1,6 +1,6 @@
 ## Introduction à Python pour les SHS - URFIST Lyon - 13 décembre 2022 - #PySHS
 
-La séance de 6 heures en **présentiel** couvre de manière appliquée :
+La séance de 7 heures en **présentiel** couvre de manière appliquée :
 
 - les bases du langage Python et de son environnement (en particulier le Notebook Jupyter)
 - l'installation et la recherche de bibliothèques
